@@ -1240,3 +1240,6 @@ section {
   color: #797979;
   font-style: italic;
 }
+.project-icon img{
+  width: 100%;
+}
